@@ -1,0 +1,3 @@
+git clone git@github.com:lcdyk0517/arkos4clone.git
+cd arkos4clone
+sudo ./build_image.sh ArkOS-R3XS.img
